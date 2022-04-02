@@ -43,6 +43,14 @@
 
 ### 更新履歴
 
+2022/04/2：更新 [ver 1.1.0]
+ 
+- HandOut/LastNight/Lheta+Raulにエンド1sを追加
+- HandOut/LastNight/Maxiah内、一部エンド記述を修正
+- GMKit/GUIDEの内容を修正（勝利条件・エンド分岐）
+- GMKit/GUIDEに加筆（基本知識）
+- GMKit/GUIDEの誤字修正
+
 2022/03/5：更新 [ver 1.0.4]
  
 - GMKit/GUIDEの内容を修正（勝利条件・エンド分岐）
